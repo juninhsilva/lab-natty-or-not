@@ -21,15 +21,23 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 
 ```markdown
 # Título do Projeto Extremamente Aesthetic ;)
+Como usar a IA para se sobressair como desenvolvedor e não parecer um mero repetidor de código?
 
 ## 📒 Descrição
 Breve descrição do seu projeto
+Projeto de Podcast Nerd sobre Desenvolvimento x IA
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
+ChatGPT
+ElevenLabs
+Descript
 
 ## 🧐 Processo de Criação
 Descreva como você criou o conteúdo
+Roteiro e Conteúdo gerado por ChatGPT e revisado por humano
+Voz gerada pelo ElevenLabs
+Descript para montagem e edição do Podcast
 
 ## 🚀 Resultados
 Apresente os resultados do seu projeto
